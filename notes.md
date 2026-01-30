@@ -1,0 +1,1 @@
+❯ cd ~/Library/Group\ Containers/group.com.apple.VoiceMemos.shared/Recordings

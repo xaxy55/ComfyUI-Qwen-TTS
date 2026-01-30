@@ -24,3 +24,6 @@ Repository = "https://github.com/flybirdxx/ComfyUI-Qwen-TTS"
 PublisherId = "flybirdxx"  # TODO: Fill in your Publisher ID from https://registry.comfy.org
 DisplayName = "Qwen3-TTS - Voice Synthesis & Cloning"
 Icon = "https://raw.githubusercontent.com/flybirdxx/ComfyUI-Qwen-TTS/main/example/qwen3-tts.png"
+
+[tool.uv.workspace]
+members = ["env"]
